@@ -5,9 +5,9 @@
 2) Wrote the program that inserts the user inputted values into the Binary Search Tree (BST) and shows the final resulting tree.
    This program includes the following files: 
    
-   main.c
-   bst.h
-   bst.c
-   data.h
-   data.c
+   - main.c
+   - bst.h
+   - bst.c
+   - data.h
+   - data.c
    
