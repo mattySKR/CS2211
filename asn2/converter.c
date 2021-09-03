@@ -1,5 +1,5 @@
 // Name of the program: converter.c
-// Program description: converts the between the units based on the choice of the user
+// Program description: converts between the units based on the choice of the user
 // Author: Matvey Skripchenko
 
 #include <stdio.h>
